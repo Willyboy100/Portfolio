@@ -13,9 +13,8 @@ Hello! I'm William Njoku 😃. A writer, financial trader, and data analyst with
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth by creating automated dashboards, optimizing data pipelines, and conducting in-depth analyses in order to support business objectives. I have an absolute dedication to solving problems, enhancing efficiency, and to deliver data-driven solutions to achieve quantifiable outcomes.
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
-
+**- ✅ Writing and Project Development.**
+I offer comprehensive and compelling content across various formats, including articles, blogs, and creative storytelling. While paying attention to every detail, I am committed to delivering engaging and impactful narratives; with a specialty in creating content to connect with diverse audiences. My skill includes Persuasive communication, proofreading and editing to ensure consistency and clarity. I focus on providing creativity and precision to every piece whether i'm collaborating on creative projects or producing strategic marketing materials.
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
