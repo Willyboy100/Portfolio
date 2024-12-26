@@ -8,10 +8,10 @@ Hello! I'm William Njoku 😃, a writer and data analyst with a passion for turn
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO 
 
-*As a skilled data analyst and Financial Trader, it is in my best interest to .*
+*As a skilled data analyst and Financial Trader with expertise in statistical analysis, predictive modeling, and data visualization, I leverage tools like Power Bi, Excel, SQL, Tableau, and Python in a bid to uncover trends and drive decision-making. .*
 
 **- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth by creating automated dashboards, optimizing data pipelines, and conducting in-depth analyses in order to support business objectives. I have an absolute dedication to solving problems, enhancing efficiency, and to deliver data-driven solutions to achieve quantifiable outcomes.
 
 **- ✅ Staff Training & Development.**
 I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
