@@ -22,7 +22,7 @@ I offer comprehensive and compelling content across various formats, including a
 *A glimpse of some of the projects I've been working on.*
 
 **Descriptive Analysis on Student Performance.**
-![image]()
+![image](Student Performance Analytic report.png)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
