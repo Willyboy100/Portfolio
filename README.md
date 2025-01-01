@@ -31,7 +31,10 @@ The analysis process transitioned from getting the data to cleaning it and trans
 
 **Predictive Analytic Report on Life Expectancy**
 
-![image](Student Performance Analytic report.png)
+![image](LIfe Expectancy Analytic Report.png)
+
+
+
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
