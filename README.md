@@ -24,7 +24,9 @@ I offer comprehensive and compelling content across various formats, including a
 **Descriptive Analysis on Student Performance.**
 ![image](Student Performance Analytic report.png)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+The analysis focused on each student's academic performance, identifying overall trends and highlighting areas for improvement.
+The analysis process transitioned from getting the data to cleaning it and transforming it into a well-comprehensive report, using dashboards to demonstrate fundamental metrics with charts like timelines, bar graphs, and pie charts.
+
 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
