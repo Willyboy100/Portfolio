@@ -23,9 +23,9 @@ I offer comprehensive and compelling content across various formats, including a
 
 **Descriptive & Predictive Analysis on Student Performance.**
 ![image](Student Performance Analytic report.png)
-
 The analysis focused on each student's academic performance, identifying overall trends and highlighting areas for improvement.
 The analysis process transitioned from getting the data to cleaning it and transforming it into a well-comprehensive report, using dashboards to demonstrate fundamental metrics with charts like timelines, bar graphs, and pie charts.
+
 
 **Predictive Analytic Report on Life Expectancy**
 ![image](LIfe Expectancy Analytic Report.png)
