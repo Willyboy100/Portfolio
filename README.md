@@ -22,6 +22,7 @@ I offer comprehensive and compelling content across various formats, including a
 *A glimpse of some of the projects I've been working on.*
 
 **Descriptive Analysis on Student Performance.**
+
 ![image](Student Performance Analytic report.png)
 
 The analysis focused on each student's academic performance, identifying overall trends and highlighting areas for improvement.
