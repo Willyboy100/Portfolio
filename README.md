@@ -21,7 +21,7 @@ I offer comprehensive and compelling content across various formats, including a
 
 *A glimpse of some of the projects I've been working on.*
 
-**Descriptive Analysis on Student Performance.**
+**Descriptive & Predictive Analysis on Student Performance.**
 
 ![image](Student Performance Analytic report.png)
 
@@ -29,12 +29,9 @@ The analysis focused on each student's academic performance, identifying overall
 The analysis process transitioned from getting the data to cleaning it and transforming it into a well-comprehensive report, using dashboards to demonstrate fundamental metrics with charts like timelines, bar graphs, and pie charts.
 
 
+**Predictive Analytic Report on Life Expectancy**
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](2 anietie etuk data analytics sales project.jpg)
+![image]()
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
