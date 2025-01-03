@@ -46,7 +46,7 @@ Presenting insights into the effectiveness of the brand’s ability to deliver p
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:Williamnjoku007@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:Williamnjoku007@gmail.com"</a></td>
     </tr>
     <tr>
       <td>📞</td>
