@@ -28,13 +28,12 @@ The analysis process transitioned from getting the data to cleaning it and trans
 
 
 **Predictive Analytic Report on Life Expectancy**
-![image](LIfe Expectancy Analytic Report.pn
+![image](LIfe Expectancy Analytic Report.png)
 
 
 **Predictive Modeling and Hypothesis Testing on the efficiency of delivery**
 
 ![image](Delivery Analytic report.png)
-
 A comprehensive analytic report on the efficiency of delivery from a courier company. 
 Presenting insights into the effectiveness of the brand’s ability to deliver products consumers order. 
 
