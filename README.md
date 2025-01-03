@@ -46,7 +46,7 @@ Presenting insights into the effectiveness of the brand’s ability to deliver p
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:Williamnjoku007@gmail.com"</a></td>
+      <td><a href="Williamnjoku007@gmail.com"
     </tr>
     <tr>
       <td>📞</td>
@@ -54,7 +54,7 @@ Presenting insights into the effectiveness of the brand’s ability to deliver p
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Lagos, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
