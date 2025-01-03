@@ -62,7 +62,7 @@ Presenting insights into the effectiveness of the brand’s ability to deliver p
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://linkedin.com/in/william-njoku-143b51259">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
