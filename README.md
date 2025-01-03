@@ -28,22 +28,16 @@ The analysis process transitioned from getting the data to cleaning it and trans
 
 
 **Predictive Analytic Report on Life Expectancy**
-![image](LIfe Expectancy Analytic Report.png)
+![image](LIfe Expectancy Analytic Report.pn
 
 
+**Predictive Modeling and Hypothesis Testing on the efficiency of delivery**
 
+![image]()
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+A comprehensive analytic report on the efficiency of delivery from a courier company. 
+Presenting insights into the effectiveness of the brand’s ability to deliver products consumers order. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
