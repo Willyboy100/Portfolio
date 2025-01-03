@@ -46,11 +46,11 @@ Presenting insights into the effectiveness of the brand’s ability to deliver p
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:Williamnjoku007@gmail.com">anietieetuk@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 903-274-6686</td>
     </tr>
     <tr>
       <td>📍</td>
@@ -58,7 +58,7 @@ Presenting insights into the effectiveness of the brand’s ability to deliver p
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://Willyboy100.github.i/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
