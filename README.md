@@ -58,7 +58,7 @@ Presenting insights into the effectiveness of the brand’s ability to deliver p
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="CV.docx">Download my CV</a></td>
+      <td><a href="William Njoku @ PDF.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
