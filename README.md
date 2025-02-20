@@ -66,8 +66,6 @@ Presenting insights into the effectiveness of the brand’s ability to deliver p
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
-    </tr>
   </tbody>
 </table>
 
@@ -76,5 +74,5 @@ Presenting insights into the effectiveness of the brand’s ability to deliver p
 
 
 
-Raw File by Anietie Etuk.txt
-Displaying Raw File by Anietie Etuk.txt.
+Raw File by William Njoku.txt
+Displaying Raw File by William Njoku.txt.
