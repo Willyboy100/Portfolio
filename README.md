@@ -65,8 +65,9 @@ Presenting insights into the effectiveness of the brand’s ability to deliver p
       <td><a href="https://linkedin.com/in/william-njoku-143b51259">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
-Raw File by William Njoku.txt
-Displaying Raw File by William Njoku.txt. 
 </tbody>
-</table>
+</table> 
+
+Raw File by William Njoku.txt
+Displaying Raw File by William Njoku.txt.
 
