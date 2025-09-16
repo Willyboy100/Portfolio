@@ -39,7 +39,7 @@ Presenting insights into the effectiveness of the brand’s ability to deliver p
 
 **Prescriptive Analytic Report on Job Application Data**
 ![image](Application Data .png)
-A prescrisptive analytic report to improve data collection process and analyze the completeness of the application. 
+A prescriptive analytic report to improve data collection process and analyze the completeness of the application. 
 Presenting key insights into the effectiveness of scrutinizing contact information provided by applicants. 
 
 
