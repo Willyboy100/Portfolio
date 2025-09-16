@@ -37,6 +37,11 @@ A well-presented analytic report that creates a clear overview of the life expec
 A comprehensive analytic report on the efficiency of delivery from a courier company. 
 Presenting insights into the effectiveness of the brand’s ability to deliver products consumers order. 
 
+**Prescriptive Analytic Report on Job Application Data**
+![image](Delivery Analytic report.png)
+A comprehensive analytic report on the efficiency of delivery from a courier company. 
+Presenting insights into the effectiveness of the brand’s ability to deliver products consumers order. 
+
 
 
 ## CONTACT DETAILS
