@@ -38,9 +38,9 @@ A comprehensive analytic report on the efficiency of delivery from a courier com
 Presenting insights into the effectiveness of the brand’s ability to deliver products consumers order. 
 
 **Prescriptive Analytic Report on Job Application Data**
-![image](Delivery Analytic report.png)
-A comprehensive analytic report on the efficiency of delivery from a courier company. 
-Presenting insights into the effectiveness of the brand’s ability to deliver products consumers order. 
+![image](Application Data .png)
+A prescrisptive analytic report to improve data collection process and analyze the completeness of the application. 
+Presenting key insights into the effectiveness of scrutinizing contact information provided by applicants. 
 
 
 
