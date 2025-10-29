@@ -6,7 +6,7 @@ Hello! I'm William Njoku 😃. A writer, financial trader, and data analyst with
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO 
+## SKILLS
 
 *As a skilled data analyst and Financial Trader with expertise in statistical analysis, predictive modeling, and data visualization, I leverage tools like Power Bi, Excel, SQL, Tableau, and Python in a bid to uncover trends and drive decision-making. .*
 
@@ -17,7 +17,7 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 I offer comprehensive and compelling content across various formats, including articles, blogs, and creative storytelling. While paying attention to every detail, I am committed to delivering engaging and impactful narratives; with a specialty in creating content to connect with diverse audiences. My skill includes Persuasive communication, proofreading and editing to ensure consistency and clarity. I focus on providing creativity and precision to every piece whether i'm collaborating on creative projects or producing strategic marketing materials.
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PROJECTS
 
 *A glimpse of some of the projects I've been working on.*
 
