@@ -42,6 +42,10 @@ Presenting insights into the effectiveness of the brand’s ability to deliver p
 A prescriptive analytic report to improve data collection process and analyze the completeness of the application. 
 Presenting key insights into the effectiveness of scrutinizing contact information provided by applicants. 
 
+![image](Adidas page 1.png)
+A complete Power BI project analyzing Adidas sales performance across regions, products, and sales channels.
+Includes DAX measures for MoM, YTD, and YoY growth, profitability ratios, and data storytelling visuals for executive insights.
+
 
 
 ## CONTACT DETAILS
