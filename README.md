@@ -42,11 +42,19 @@ Presenting insights into the effectiveness of the brand’s ability to deliver p
 A prescriptive analytic report to improve data collection process and analyze the completeness of the application. 
 Presenting key insights into the effectiveness of scrutinizing contact information provided by applicants. 
 
-**Adidas Profitability Insights Dashboard (Power BI + DAX)**
+**Adidas Profitability Insights Dashboard {Executive Overview}**
 ![image](Adidas page 1.png)
 A complete Power BI project analyzing Adidas sales performance across regions, products, and sales channels.
 Includes DAX measures for MoM, YTD, and YoY growth, profitability ratios, and data storytelling visuals for executive insights.
 
+**Adidas Profitability Insights Dashboard {Profitability Deep Dive}**
+![image](Adidas page 2.png)
+This project however, explores Adidas’ profitability performance using Power BI and DAX.
+It highlights key metrics such as total revenue, cost %, profit margin %, and month-over-month growth.
+
+🔹 Tools: Power BI, DAX, Excel
+🔹 Skills: Data Modeling, KPI Design, Business Intelligence
+🔹 Output: 2-page interactive dashboard for executive and analytical insights.
 
 
 ## CONTACT DETAILS
