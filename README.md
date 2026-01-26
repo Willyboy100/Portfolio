@@ -27,9 +27,9 @@ The analysis focused on each student's academic performance, identifying overall
 The analysis process transitioned from getting the data to cleaning it and transforming it into a well-comprehensive report, using dashboards to demonstrate fundamental metrics with charts like timelines, bar graphs, and pie charts.
 
 
-**Predictive Analytic Report on Life Expectancy**
-![image](LIfe Expectancy Analytic Report.png)
-A well-presented analytic report that creates a clear overview of the life expectancy and mortality rate of the population; using a dashboard with charts and graphs etc. to narrate the perspective.
+**Predictive Analytic Report on Global Adult Mortality**
+![image](Global Adult Mortality Dashboard Report.png)
+A well-presented analytic report that creates a clear overview of the life expectancy and mortality rate of the population; using a dashboard with charts and graphs etc. to narrate the perspective. A step-by-step documented presentation of the project. https://docs.google.com/document/d/1LL2zoYgI08M5D3YfKr5nAUodQCQ60A8UpeTagt93WMk/edit?usp=sharing
 
 
 **Predictive Modeling and Hypothesis Testing on the efficiency of delivery**
