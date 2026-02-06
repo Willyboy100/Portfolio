@@ -21,32 +21,37 @@ I offer comprehensive and compelling content across various formats, including a
 
 *A glimpse of some of the projects I've been working on.*
 
-**Descriptive & Predictive Analysis on Student Performance.**
+**User Performance & Engagement Analytics Dashboard**
 ![image](Student Performance Analytic report.png)
-The analysis focused on each student's academic performance, identifying overall trends and highlighting areas for improvement.
-The analysis process transitioned from getting the data to cleaning it and transforming it into a well-comprehensive report, using dashboards to demonstrate fundamental metrics with charts like timelines, bar graphs, and pie charts.
+Analyzed user performance data to identify behavioral patterns, performance trends, and improvement opportunities.
+Built KPI dashboards visualizing engagement and outcome metrics.
+Conducted exploratory analysis to uncover factors influencing user success.
 [Read More](https://docs.google.com/document/d/1MP6LmWax66a-NdAeyINAORYnM5Kdteyw0Wf8PnobghM/edit?usp=sharing)
 
 
 **Predictive Analytic Report on Global Adult Mortality**
 ![image](Global Adult Mortality Dashboard Report.png)
-A well-presented analytic report that creates a clear overview of the adult mortality rate of the global population; using a dashboard with charts and graphs etc. to narrate the perspective. A step-by-step documented presentation of the project. 
+A well-presented analytic report that creates a clear overview of the adult mortality rate of the global population; using a dashboard with charts and graphs etc. to narrate the perspective. 
+Analytical Techniques Applicable to Product Analytics
+(show modeling + trend forecasting skills)
+A step-by-step documented presentation of the project. 
 [Read More](https://docs.google.com/document/d/1LL2zoYgI08M5D3YfKr5nAUodQCQ60A8UpeTagt93WMk/edit?usp=sharing)
 
-**Predictive Modeling and Hypothesis Testing on the efficiency of delivery**
+**Operational Efficiency & Service Performance Analysis**
 ![image](Delivery Analytic report.png)
-A comprehensive analytic report on the efficiency of delivery from a courier company. 
-Presenting insights into the effectiveness of the brand’s ability to deliver products consumers order. 
+Analytic report on operational delivery data to identify service performance bottlenecks and service delays.
+Applied hypothesis testing to evaluate process efficiency.
+Generated actionable insights to improve operational workflows and customer experience.. 
 
-**Prescriptive Analytic Report on Job Application Data**
+**User Funnel & Conversion Analysis — Recruitment Pipeline**
 ![image](Application Data .png)
-A prescriptive analytic report to improve data collection process and analyze the completeness of the application. 
-Presenting key insights into the effectiveness of scrutinizing contact information provided by applicants. 
+Analytic report on user journey data to evaluate application completion rates and drop-off points.
+Assessed data completeness and process efficiency to improve conversion outcomes.
+Delivered prescriptive insights to optimize workflow and user experience.
 
-**Adidas Profitability Insights Dashboard {Executive Overview}**
+**Revenue & Product Performance Analytics — Retail Dataset**
 ![image](Adidas page 1.png)
-A complete Power BI project analyzing Adidas sales performance across regions, products, and sales channels.
-Includes DAX measures for MoM, YTD, and YoY growth, profitability ratios, and data storytelling visuals for executive insights.
+Designed and developed interactive dashboards to track product performance, profitability, and growth metrics, creating KPIs such as MoM growth, profit margins, and revenue performance, and delivering executive-level insights that supported strategic product decision-making.
 
 **Adidas Profitability Insights Dashboard {Profitability Deep Dive}**
 ![image](Adidas page 2.png)
