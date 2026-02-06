@@ -82,7 +82,7 @@ It highlights key metrics such as total revenue, cost %, profit margin %, and mo
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="William Njoku Data Analyst Resume.pdf">Download my CV</a></td>
+      <td><a href="William Njoku Product Analyst Resume.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
