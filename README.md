@@ -29,7 +29,7 @@ Conducted exploratory analysis to uncover factors influencing user success.
 [Read More](https://docs.google.com/document/d/1MP6LmWax66a-NdAeyINAORYnM5Kdteyw0Wf8PnobghM/edit?usp=sharing)
 
 
-**Predictive Analytic Report on Global Adult Mortality**
+**Global User Outcome Trends & Predictive Analytics**
 ![image](Global Adult Mortality Dashboard Report.png)
 A well-presented analytic report that creates a clear overview of the adult mortality rate of the global population; using a dashboard with charts and graphs etc. to narrate the perspective. 
 Analytical Techniques Applicable to Product Analytics
