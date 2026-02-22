@@ -21,13 +21,18 @@ I offer comprehensive and compelling content across various formats, including a
 
 *A glimpse of some of the projects I've been working on.*
 
+**Marketing ROI Optimization Through Demographic Segmentation**
+This dashboard was developed to evaluate the effectiveness of social media advertising campaigns through demographic segmentation and conversion analysis.
+By analyzing age, gender, and income patterns, the project identifies which customer segments generate the highest return on ad spend and where budget inefficiencies exist.
+The insights support data-driven decisions around targeting, messaging optimization, and marketing spend allocation. 
+[Read More](https://docs.google.com/document/d/1dQmgpg9svVSPBPjg0iyA4Ob7NfWPgnJzfHXHUQ8SW84/edit?usp=sharing)
+
 **User Performance & Engagement Analytics Dashboard**
 ![image](Student Performance Analytic report.png)
 Analyzed user performance data to identify behavioral patterns, performance trends, and improvement opportunities.
 Built KPI dashboards visualizing engagement and outcome metrics.
 Conducted exploratory analysis to uncover factors influencing user success.
 [Read More](https://docs.google.com/document/d/1MP6LmWax66a-NdAeyINAORYnM5Kdteyw0Wf8PnobghM/edit?usp=sharing)
-
 
 **Global User Outcome Trends & Predictive Analytics**
 ![image](Global Adult Mortality Dashboard Report.png)
