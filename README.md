@@ -23,10 +23,11 @@ I offer comprehensive and compelling content across various formats, including a
 
 **Marketing ROI Optimization Through Demographic Segmentation**
 ![image](Social Ads page 1 .png) 
-![image](Social Network Ads page 2.png) 
 This dashboard was developed to evaluate the effectiveness of social media advertising campaigns through demographic segmentation and conversion analysis.
 By analyzing age, gender, and income patterns, the project identifies which customer segments generate the highest return on ad spend and where budget inefficiencies exist.
-The insights support data-driven decisions around targeting, messaging optimization, and marketing spend allocation. 
+The insights support data-driven decisions around targeting, messaging optimization, and marketing spend allocation.
+
+Full Report is detailed in the link below
 [Read More](https://docs.google.com/document/d/1dQmgpg9svVSPBPjg0iyA4Ob7NfWPgnJzfHXHUQ8SW84/edit?usp=sharing)
 
 LinkedIn Post:[Read More](https://www.linkedin.com/posts/william-njoku-143b51259_dataanalytics-marketinganalytics-powerbi-ugcPost-7431398297916862464-YEYc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-1MIMBskxuJA86RKfxfpX_fFbhc-ELA3o)
