@@ -22,7 +22,8 @@ I offer comprehensive and compelling content across various formats, including a
 *A glimpse of some of the projects I've been working on.*
 
 **Marketing ROI Optimization Through Demographic Segmentation**
-![image](Student Performance Analytic report.png) 
+![image](Social Ads page 1 .png) 
+![image]() 
 This dashboard was developed to evaluate the effectiveness of social media advertising campaigns through demographic segmentation and conversion analysis.
 By analyzing age, gender, and income patterns, the project identifies which customer segments generate the highest return on ad spend and where budget inefficiencies exist.
 The insights support data-driven decisions around targeting, messaging optimization, and marketing spend allocation. 
