@@ -22,10 +22,13 @@ I offer comprehensive and compelling content across various formats, including a
 *A glimpse of some of the projects I've been working on.*
 
 **Marketing ROI Optimization Through Demographic Segmentation**
+![image](Student Performance Analytic report.png) 
 This dashboard was developed to evaluate the effectiveness of social media advertising campaigns through demographic segmentation and conversion analysis.
 By analyzing age, gender, and income patterns, the project identifies which customer segments generate the highest return on ad spend and where budget inefficiencies exist.
 The insights support data-driven decisions around targeting, messaging optimization, and marketing spend allocation. 
 [Read More](https://docs.google.com/document/d/1dQmgpg9svVSPBPjg0iyA4Ob7NfWPgnJzfHXHUQ8SW84/edit?usp=sharing)
+
+LinkedIn Post:[Read More](https://www.linkedin.com/posts/william-njoku-143b51259_dataanalytics-marketinganalytics-powerbi-ugcPost-7431398297916862464-YEYc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-1MIMBskxuJA86RKfxfpX_fFbhc-ELA3o)
 
 **User Performance & Engagement Analytics Dashboard**
 ![image](Student Performance Analytic report.png)
