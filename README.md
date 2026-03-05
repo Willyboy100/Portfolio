@@ -47,6 +47,9 @@ Analytical Techniques Applicable to Product Analytics
 A step-by-step documented presentation of the project. 
 [Read More](https://docs.google.com/document/d/1LL2zoYgI08M5D3YfKr5nAUodQCQ60A8UpeTagt93WMk/edit?usp=sharing)
 
+LinkedIn Post: [Read More](https://www.linkedin.com/posts/activity-7421485130675990528-fsbz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-1MIMBskxuJA86RKfxfpX_fFbhc-ELA3o))
+
+
 **Operational Efficiency & Service Performance Analysis**
 ![image](Delivery Analytic report.png)
 Analytic report on operational delivery data to identify service performance bottlenecks and service delays.
