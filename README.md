@@ -23,7 +23,8 @@ I offer comprehensive and compelling content across various formats, including a
 
 **Solar Energy Generation & Weather Analytics Dashboard**
 ![image](Solar Energy Dashboard.png)
-This project explores how solar plant performance is influenced by environmental conditions such as irradiation and temperature. Using SQL for data preparation and Power BI for visualization, I developed an analytical dashboard that monitors energy production trends, inverter performance, and the relationship between weather patterns and solar output.
+This project analyzes solar plant generation data alongside weather conditions to uncover patterns that influence energy production. By leveraging Microsoft SQL Server for data transformation and Power BI for visualization, I built an interactive dashboard that highlights key performance indicators, generation trends, inverter efficiency, and the relationship between irradiation, temperature, and power output.
+The goal of this analysis is to demonstrate how data-driven insights can support operational monitoring and performance optimization in renewable energy systems.
 [Read More](https://docs.google.com/document/d/1xdqX7YkfdVVtuAc7wTl_Um_81F1w3UX4sVFMifJCj-Q/edit?usp=sharing)
 
 LinkedIn Post:[Read More]()
