@@ -22,7 +22,7 @@ I offer comprehensive and compelling content across various formats, including a
 *A glimpse of some of the projects I've been working on.*
 
 **Solar Energy Generation & Weather Analytics Dashboard**
-![image]Solar Energy Dashboard.png)
+![image](Solar Energy Dashboard.png)
 This project explores how solar plant performance is influenced by environmental conditions such as irradiation and temperature. Using SQL for data preparation and Power BI for visualization, I developed an analytical dashboard that monitors energy production trends, inverter performance, and the relationship between weather patterns and solar output.
 
 **Marketing ROI Optimization Through Demographic Segmentation**
