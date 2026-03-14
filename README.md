@@ -24,6 +24,9 @@ I offer comprehensive and compelling content across various formats, including a
 **Solar Energy Generation & Weather Analytics Dashboard**
 ![image](Solar Energy Dashboard.png)
 This project explores how solar plant performance is influenced by environmental conditions such as irradiation and temperature. Using SQL for data preparation and Power BI for visualization, I developed an analytical dashboard that monitors energy production trends, inverter performance, and the relationship between weather patterns and solar output.
+[Read More](https://docs.google.com/document/d/1xdqX7YkfdVVtuAc7wTl_Um_81F1w3UX4sVFMifJCj-Q/edit?usp=sharing)
+
+LinkedIn Post:[Read More]()
 
 **Marketing ROI Optimization Through Demographic Segmentation**
 ![image](Social Ads page 1 .png) 
