@@ -27,7 +27,7 @@ This project analyzes solar plant generation data alongside weather conditions t
 The goal of this analysis is to demonstrate how data-driven insights can support operational monitoring and performance optimization in renewable energy systems.
 [Read More](https://docs.google.com/document/d/1xdqX7YkfdVVtuAc7wTl_Um_81F1w3UX4sVFMifJCj-Q/edit?usp=sharing)
 
-LinkedIn Post:[Read More]()
+LinkedIn Post:[Read More](https://www.linkedin.com/feed/update/urn:li:activity:7438591653893910528/)
 
 **Marketing ROI Optimization Through Demographic Segmentation**
 ![image](Social Ads page 1 .png) 
