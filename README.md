@@ -21,6 +21,13 @@ I offer comprehensive and compelling content across various formats, including a
 
 *A glimpse of some of the projects I've been working on.*
 
+**Operational Efficiency & Service Performance Analysis**
+![image](Screenshot 2026-03-26 084904.png)
+Analytic report on operational delivery data to identify service performance bottlenecks and service delays.
+Applied hypothesis testing to evaluate process efficiency.
+Generated actionable insights to improve operational workflows and customer experience.. 
+[Read More](https://docs.google.com/document/d/1RqobUHZxn_FzbU1vMVufKxSlumLcsA7sqIriXJLJ7ME/edit?usp=sharing) 
+
 **Solar Energy Generation & Weather Analytics Dashboard**
 ![image](Solar Energy Dashboard.png)
 This project analyzes solar plant generation data alongside weather conditions to uncover patterns that influence energy production. By leveraging Microsoft SQL Server for data transformation and Power BI for visualization, I built an interactive dashboard that highlights key performance indicators, generation trends, inverter efficiency, and the relationship between irradiation, temperature, and power output.
@@ -56,14 +63,6 @@ A step-by-step documented presentation of the project.
 [Read More](https://docs.google.com/document/d/1LL2zoYgI08M5D3YfKr5nAUodQCQ60A8UpeTagt93WMk/edit?usp=sharing)
 
 LinkedIn Post: [Read More](https://www.linkedin.com/posts/activity-7421485130675990528-fsbz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-1MIMBskxuJA86RKfxfpX_fFbhc-ELA3o))
-
-
-**Operational Efficiency & Service Performance Analysis**
-![image](Screenshot 2026-03-26 084904.png)
-Analytic report on operational delivery data to identify service performance bottlenecks and service delays.
-Applied hypothesis testing to evaluate process efficiency.
-Generated actionable insights to improve operational workflows and customer experience.. 
-[Read More](https://docs.google.com/document/d/1RqobUHZxn_FzbU1vMVufKxSlumLcsA7sqIriXJLJ7ME/edit?usp=sharing) 
 
 **User Funnel & Conversion Analysis — Recruitment Pipeline**
 ![image](Application Data .png)
