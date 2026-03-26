@@ -63,6 +63,7 @@ LinkedIn Post: [Read More](https://www.linkedin.com/posts/activity-7421485130675
 Analytic report on operational delivery data to identify service performance bottlenecks and service delays.
 Applied hypothesis testing to evaluate process efficiency.
 Generated actionable insights to improve operational workflows and customer experience.. 
+[Read More](https://docs.google.com/document/d/1RqobUHZxn_FzbU1vMVufKxSlumLcsA7sqIriXJLJ7ME/edit?usp=sharing) 
 
 **User Funnel & Conversion Analysis — Recruitment Pipeline**
 ![image](Application Data .png)
