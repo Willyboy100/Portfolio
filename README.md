@@ -59,7 +59,7 @@ LinkedIn Post: [Read More](https://www.linkedin.com/posts/activity-7421485130675
 
 
 **Operational Efficiency & Service Performance Analysis**
-![image](Delivery Analytic report.png)
+![image](Screenshot 2026-03-26 084904.png)
 Analytic report on operational delivery data to identify service performance bottlenecks and service delays.
 Applied hypothesis testing to evaluate process efficiency.
 Generated actionable insights to improve operational workflows and customer experience.. 
